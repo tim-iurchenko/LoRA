@@ -20,3 +20,4 @@ conllu
 sentencepiece != 0.1.92
 protobuf
 ray
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
