@@ -20,3 +20,4 @@ conllu
 sentencepiece != 0.1.92
 protobuf
 transformers==3.5.1
+aiohttp>=3.13.3 # not directly required, pinned by Snyk to avoid a vulnerability
