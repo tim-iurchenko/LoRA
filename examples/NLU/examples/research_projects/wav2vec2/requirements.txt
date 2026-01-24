@@ -1,4 +1,5 @@
 transformers
 datasets
-torch >= 1.5.0
+torch>=2.10.0
 jiwer
+wheel>=0.46.2 # not directly required, pinned by Snyk to avoid a vulnerability
