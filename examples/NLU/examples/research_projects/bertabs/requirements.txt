@@ -3,3 +3,4 @@ transformers == 3.5.1
 # For ROUGE
 nltk
 py-rouge
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
