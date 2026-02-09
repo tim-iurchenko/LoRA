@@ -4,3 +4,4 @@ protobuf
 sacrebleu >= 1.4.12
 rouge-score
 nltk
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
