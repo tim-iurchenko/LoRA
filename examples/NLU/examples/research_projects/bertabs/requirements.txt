@@ -3,3 +3,4 @@ transformers == 3.5.1
 # For ROUGE
 nltk
 py-rouge
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
